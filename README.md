@@ -1,6 +1,6 @@
-# 📊 Sales Analysis Dashboard (Excel Project)
+# 📊 Sales Performance Analysis (MS Excel Project)
 
-This project is a dynamic and interactive **Sales Performance Dashboard** built using **Microsoft Excel**, designed to analyze and visualize key business metrics from a fictional Superstore dataset. The dashboard provides deep insights into **sales, profit, customer behavior, and regional performance**, all structured for business decision-making.
+This project is a dynamic and interactive **Sales Performance Analysis** built using **Microsoft Excel**, designed to analyze and visualize key business metrics from a fictional Superstore dataset. The dashboard provides deep insights into **sales, profit, customer behavior, and regional performance**, all structured for business decision-making.
 
 > ✅ Ideal for beginners who want to learn Excel analytics, or recruiters evaluating entry-level data analysts.
 
